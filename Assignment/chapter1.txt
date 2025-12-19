@@ -1,0 +1,83 @@
+CHAPTER 1: AN OVERVIEW OF THE INTERNET AND THE WEB
+Group A: Short Questions (2 Marks)
+
+1. Ans = A protocol is a set of standardized rules that governs how data is transmitted, received, and interpreted between devices over a network. It ensures that computers with different systems can communicate correctly and efficiently.
+
+2. Ans = The primary difference is:
+
+-> A Web Browser is a software application (like Chrome, Firefox) used to access and view websites on the Internet. 
+
+-> A Search Engine is an online service (like Google, Bing, or Yahoo) that helps users find information on the Internet by searching its indexed pages based on keywords.
+
+3. Ans = The World Wide Web is a system of interconnected documents and resources linked by hyperlinks and accessed via the Internet using a web browser. It allows users to view web pages, images, videos, and other content through websites.
+
+4. Ans = A static web page contains fixed content that remains the same unless it is manually updated by the developer. It is simple, fast to load, and mainly used for displaying information. In contrast, a dynamic web page can change its content automatically based on user interactions, inputs, or data from a database. It is more interactive and flexible, often used in applications like online stores, social media, and personalized websites.
+
+
+
+
+Group B: Long Questions
+
+5. Ans = 5 ans:The web works on a client–server architecture. In this system, there are two main parts: the client and the server.
+
+The client is the user’s device, such as a computer or mobile phone, which uses a web browser (like Chrome or Firefox).
+
+The server is a powerful computer that stores websites, web pages, and data.
+
+When a user types a website address in the browser, the client sends a request to the server. The server processes this request and sends the required web page back to the client. The browser then displays the page to the user.
+
+Neat Diagram:
+
+Client (Web Browser)  ----Request---->  Web Server
+Client (Web Browser)  <---Response----  Web Server
+
+
+
+6. Ans = 
+-> Email (Electronic Mail): Allows users to send and receive messages, documents, and files over the Internet quickly and efficiently. It is widely used for personal and professional communication.
+
+-> FTP (File Transfer Protocol): Enables users to upload and download files between computers over the Internet. It is commonly used for transferring large files or website content.
+
+-> VoIP (Voice over Internet Protocol): Allows users to make voice and video calls over the Internet instead of traditional phone lines, often at lower cost and with additional features like video conferencing.
+
+
+
+7. Ans = “The Internet is a Network of Networks”
+
+The Internet is called a network of networks because it connects millions of smaller networks around the world, such as home networks, school networks, and office networks.
+
+These networks communicate using a method called packet switching. In packet switching:
+
+Data is broken into small parts called packets.
+
+Each packet travels independently through different routes on the Internet.
+
+At the destination, all packets are reassembled to form the original data.
+
+This method makes data transfer fast and efficient, even if some routes are busy or temporarily unavailable. Because all these networks are connected and share data in this way, the Internet is truly a network of networks.
+
+
+
+
+
+Group C: Scenario-Based Questions
+
+8. Ans = I would not agree with the advice to use a dynamic website for this startup. Since the website is meant to display the same information to all visitors and needs low maintenance, a static website is a better choice. Static websites are simple, faster to load, more secure, and cheaper to host because the content does not change frequently.
+
+Dynamic websites are useful when the content needs to change based on user interaction or comes from a database, like in online stores or social media platforms. In this case, a dynamic website would only increase complexity and cost without adding any real benefit.
+
+Conclusion: For a simple, low-maintenance website with fixed content, a static website is the most practical and cost-effective option.
+
+
+9. Ans = The problem here is a DNS (Domain Name System) failure. When a user types www.google.com
+, the browser needs to translate this domain name into an IP address using DNS. Since accessing the site via its IP address (142.250.190.46) works, it shows that the internet connection is fine and the server is reachable, but the DNS lookup failed.
+
+Explanation: DNS is like the Internet’s phonebook. It converts human-friendly domain names (like www.google.com
+) into IP addresses that computers use to communicate. If DNS fails or is unreachable, the browser cannot find the server by name, resulting in a “Server Not Found” error.
+
+Conclusion: The issue is not with the website or the internet connection but with the DNS service.
+
+
+10. Ans = The corporation should implement an Extranet to share sensitive inventory data with specific suppliers. An Extranet is a private network that extends part of a company’s internal network to authorized external users, such as suppliers or business partners. This allows them to access, view, or update specific information securely without exposing it to the general public.
+
+Unlike the Internet, which is open to everyone, and an Intranet, which is limited to internal employees, an Extranet provides controlled access, strong security, and efficient collaboration. This makes it the ideal choice for sharing confidential inventory data safely with selected external parties while keeping it protected from unauthorized users.
