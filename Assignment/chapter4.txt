@@ -1,0 +1,84 @@
+CHAPTER 4: WEBSITE DESIGN PRINCIPLES
+
+Group A: Short Questions
+
+1. Ans => Legibility is the ease with which individual letters and characters can be recognized. It depends on the font style, size, and spacing.
+
+Readability is the ease with which words, sentences, and paragraphs can be read and understood. It depends on word choice, sentence length, and text organization.
+
+
+2. Ans => Rule of Thirds is a layout design principle where a page is divided into three equal parts horizontally and vertically (3×3 grid). Important content is placed along these lines or at their intersections to create a balanced, attractive, and easy-to-focus design.
+
+3. Ans => Using too many font families makes a website look messy and confusing. It reduces visual consistency, affects readability, and also slows down page loading. Limiting fonts keeps the design clean, professional, and easy to read.
+
+4. Ans => Responsive Web Design (RWD) is a web design approach in which a website automatically adjusts its layout, images, and content to fit different screen sizes and devices such as mobiles, tablets, and desktops
+
+
+
+
+Group B: Long Questions
+
+5. Ans => The F-Pattern is a common eye-movement pattern that users follow while reading web pages. Studies show that people scan web pages in the shape of the letter F instead of reading word by word.
+
+Pattern:
+
+First, users scan horizontally across the top part of the page.
+
+Then they move slightly down and scan another horizontal line.
+
+Finally, they scan vertically down the left side of the page.
+
+Influence on Content Placement:
+
+Important headings and key information should be placed at the top and left side.
+
+Logos, navigation menus, and main messages are placed in the top-left area.
+
+Paragraphs should start with important words because users read mainly the first few words.
+
+Call-to-action buttons are placed near these scanning paths to get more attention.
+
+This pattern helps designers arrange content in a way that matches natural user behavior.
+
+
+6. Ans => Colors affect human emotions and behavior. Proper use of color can increase user trust, attention, and interaction.
+
+Blue
+
+Represents trust, security, calmness, and professionalism.
+
+Commonly used in banking, corporate, and social media websites.
+
+Example: Facebook, LinkedIn, PayPal use blue to show reliability.
+
+Red
+
+Represents energy, urgency, passion, and excitement.
+
+Used to grab attention and encourage quick actions.
+
+Example: Used for sale offers, warning messages, and “Buy Now” buttons.
+
+Green
+
+Represents nature, health, safety, and growth.
+
+Creates a relaxing and positive feeling.
+
+Example: Used in healthcare, eco-friendly, and finance websites to show stability and growth.
+
+Using correct colors improves user experience and influences decision-making.
+
+
+7. Ans => The 60-30-10 Rule is a color design principle used to maintain balance and visual harmony on a website.
+
+60% – Primary color:
+Used for background and large areas of the website.
+
+30% – Secondary color:
+Used for menus, sidebars, and important sections.
+
+10% – Accent color:
+Used for buttons, links, and highlights to attract attention.
+
+This rule ensures the website looks balanced, attractive, and easy to navigate.
