@@ -1,1 +1,2 @@
-# 27_samir_rijal_ncmt_web_technology
+This repository contains my Web Technology practical work, including assignments and portfolio projects as required by the college curriculum.
+
