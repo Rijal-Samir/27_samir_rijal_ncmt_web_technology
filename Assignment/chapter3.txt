@@ -137,3 +137,4 @@ Future-Proof & Scalable: The logical folder structure (/category/subcategory/pro
 
 Implementation Note: The underlying system can still use IDs (id=55) internally in the database, but the slugs serve as the clean, public-facing facade that benefits both humans and machines.
 
+
