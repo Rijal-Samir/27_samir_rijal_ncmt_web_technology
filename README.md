@@ -10,7 +10,7 @@ This repository contains my **Web Technology practical work**, including assignm
 - **Program:** BIT  
 - **College:** NCMT  
 - **Subject:** Web Technology  
-- **Instructor:** __________  
+- **Instructor:** Kapil Shrestha  
 
 ---
 
