@@ -19,20 +19,21 @@ This repository contains my **Web Technology practical work**, including assignm
 ### Features
 Key features of my portfolio website:
 
--  Responsive design (works on mobile, tablet, desktop)  
--  Navigation menu with smooth scrolling  
--  Contact form with validation  
--  Education details section
+-  Responsive design for all screen sizes 
+-  Smooth scroll and animation effects 
+-  Clean and modular React components 
+-  Easy to customize with Tailwind utility classes 
+-  Professional sections: About, Skills, Projects, Contact, etc. 
 -  Downloading CV
--  Projects section with live demo links  
+-  Projects section with live demo links
+-  Education Background
 
 ### Technologies Used
 Some of the tools and languages I used for this project:
 
-- HTML5  
-- CSS3  
-- JavaScript   
-- Git & GitHub for version control  
+-  React.js
+-  Tailwind CSS   
+-  Git & GitHub for version control  
 
 ---
 
