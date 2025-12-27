@@ -22,7 +22,8 @@ Key features of my portfolio website:
 -  Responsive design (works on mobile, tablet, desktop)  
 -  Navigation menu with smooth scrolling  
 -  Contact form with validation  
--  Education details section  
+-  Education details section
+-  Downloading CV
 -  Projects section with live demo links  
 
 ### Technologies Used
