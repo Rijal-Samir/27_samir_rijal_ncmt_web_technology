@@ -1,8 +1,4 @@
-# Samir Rijal Portfolio
 
-Welcome to my personal portfolio! This repository contains the code for my portfolio website along with the original Figma design.
-
----
 
 ## 🌐 Live Website
 
